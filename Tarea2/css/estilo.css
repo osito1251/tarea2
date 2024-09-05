@@ -1,0 +1,157 @@
+.caja1
+{
+    background-color: silver;
+    width: 200px; height: 200px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+}
+
+.caja2
+{
+    background-color: red;
+    width: 50px; height: 50px;
+    position: fixed;
+    top: 130px;
+    left: 325px;
+   
+}
+.caja3
+{
+    background-color: red;
+    width: 50px; height: 50px;
+    position: fixed;
+    top: 130px;
+    left: 400px;
+   
+}
+.caja4
+{
+    background-color: yellow;
+    width: 25px; height: 25px;
+    position: fixed;
+    top: 130px;
+    left: 325px;
+   
+}
+.caja5
+{
+    background-color: yellow;
+    width: 25px; height: 25px;
+    position: fixed;
+    top: 130px;
+    left: 400px;
+   
+}
+.caja6
+{
+    background-color: yellow;
+    width: 25px; height: 25px;
+    position: fixed;
+    top: 200px;
+    left: 375px;
+    border-radius: 50%;
+   
+}
+.caja7
+{
+    background-color: yellow;
+    width: 150px; height: 10px;
+    position: fixed;
+    top: 250px;
+    left: 320px;  
+}
+.caja8
+{
+    background-color: silver;
+    width: 70px; height: 50px;
+    position: fixed;
+    top: 300px;
+    left: 360px; 
+}
+.caja9
+{
+    background-color: silver;
+    width: 200px; height: 200px;
+    position: fixed;
+    top: 350px;
+    left: 300px; 
+}
+.caja10
+{
+    background-color: red;
+    width: 150px; height: 40px;
+    position: fixed;
+    top: 375px;
+    left: 325px; 
+}
+.caja11
+{
+    background-color: red;
+    width: 150px; height: 50px;
+    position: fixed;
+    top: 450px;
+    left: 325px; 
+}
+.caja12
+{
+    background-color: silver;
+    width: 200px; height: 200px;
+    position: fixed;
+    top: 600px;
+    left: 300px;
+}
+.caja13
+{
+    background-color: silver;
+    width: 150px; height: 50px;
+    position: fixed;
+    top: 550px;
+    left: 325px;
+}
+.caja14
+{
+    background-color: green;
+    width: 20px; height: 50px;
+    position: fixed;
+    top: 600px;
+    left: 350px;
+}
+.caja15
+{
+    background-color: green;
+    width: 20px; height: 50px;
+    position: fixed;
+    top: 600px;
+    left: 400px;
+}
+.caja16
+{
+    background-color: green;
+    width: 20px; height: 50px;
+    position: fixed;
+    top: 600px;
+    left: 450px;
+}
+.caja17
+{
+    background-color: green;
+    width: 20px; height: 150px;
+    position: fixed;
+    top: 300px;
+    left: 230px;
+    transform: rotate(300deg);
+}
+.caja18
+{
+    background-color: green;
+    width: 20px; height: 150px;
+    position: fixed;
+    top: 300px;
+    left: 530px;
+    transform: rotate(45deg);
+}
+
+
+
+
